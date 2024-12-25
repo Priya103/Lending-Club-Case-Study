@@ -26,15 +26,6 @@ Data set: loan.csv and Data_Dictionary.xlsx
 - Year end sales pressure(Q4 max loans are issued)
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-
-
 ## Contact
 Created by @Priya103
 
