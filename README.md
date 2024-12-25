@@ -36,7 +36,7 @@ Data set: loan.csv and Data_Dictionary.xlsx
 
 
 ## Contact
-Created by [@Priya103]
+Created by @Priya103
 
 
 
